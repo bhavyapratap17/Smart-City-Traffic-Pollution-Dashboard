@@ -1,0 +1,4 @@
+datetime,location,AQI,PM2.5,PM10,NO2,CO,category
+2025-08-01 08:00:00,Zone A,180,95,120,60,1.0,Poor
+2025-08-01 09:00:00,Zone B,110,60,80,40,0.6,Moderate
+2025-08-01 10:00:00,Zone C,70,30,45,20,0.4,Good

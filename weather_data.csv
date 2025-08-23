@@ -1,0 +1,4 @@
+datetime,location,temperature,humidity,wind_speed,rainfall
+2025-08-01 08:00:00,Zone A,30,70,2.5,0
+2025-08-01 09:00:00,Zone B,29,65,3.0,0
+2025-08-01 10:00:00,Zone C,31,55,4.2,0

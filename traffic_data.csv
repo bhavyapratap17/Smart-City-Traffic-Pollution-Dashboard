@@ -1,0 +1,4 @@
+datetime,location,vehicle_count,avg_speed,congestion_level
+2025-08-01 08:00:00,Zone A,1200,22,High
+2025-08-01 09:00:00,Zone B,800,35,Medium
+2025-08-01 10:00:00,Zone C,400,50,Low
