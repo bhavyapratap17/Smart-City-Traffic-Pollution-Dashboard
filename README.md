@@ -70,8 +70,9 @@ Smart-City-Traffic-Pollution-Dashboard/
 ---
 
 ## 📸 Screenshots
-*(Add images here from /images folder)*  
-![Dashboard Overview](images/dashboard_overview.png)
+<img width="1200" height="800" alt="map_view" src="https://github.com/user-attachments/assets/2ba7db5d-46ab-4fc2-b090-b0b15058a05c" />
+<img width="1600" height="1000" alt="dashboard_overview" src="https://github.com/user-attachments/assets/9443e9da-b1cd-4d3d-80e8-294fcb86ae99" />
+<img width="1200" height="1200" alt="correlation_plot" src="https://github.com/user-attachments/assets/b26db4ac-c25f-4a8c-b86c-c7897db2d798" />
 
 ---
 
