@@ -25,34 +25,64 @@ It provides **predictive insights** for optimal travel routes and time slots to 
 | **Data Cleaning**      | Preprocessing raw traffic & weather datasets |
 
 ---
+## 📂 Project Structure  
+```
+Smart-City-Traffic-Pollution-Dashboard/
+├── data/                     # Raw datasets (traffic, air quality, weather data)
+│   ├── traffic_data.csv
+│   ├── air_quality.csv
+│   └── weather_data.csv
+│
+├── reports/                  # Power BI dashboard files
+│   └── SmartCity_Dashboard.pbix
+│
+├── assets/                   # Project images, screenshots & visuals
+│   ├── dashboard_preview1.png
+│   ├── dashboard_preview2.png
+│   └── icons/
+│
+├── docs/                     # (Optional) Documentation / project notes
+│   └── data_dictionary.md
+│
+├── README.md                 # Project documentation
+└── LICENSE                   # License file
 
-## 📸 Demo Preview  
-<img width="1873" height="763" alt="Image" src="https://github.com/user-attachments/assets/8e4cb971-0ee7-463c-84c0-362cda2f7878" /> 
-<img width="1861" height="639" alt="Image" src="https://github.com/user-attachments/assets/ddfab5e4-435c-4a8f-ae2d-6fdd8752b5c2" /> 
-<img width="1865" height="769" alt="Image" src="https://github.com/user-attachments/assets/e2a4125e-c365-469a-9308-d39c8f8c2ae7" /> 
-<img width="1885" height="531" alt="Image" src="https://github.com/user-attachments/assets/d56b33e6-23b8-4138-86d9-0f85eb90ea5e" /> 
-<img width="1875" height="777" alt="Image" src="https://github.com/user-attachments/assets/545115c2-06af-46b6-b14c-03a8703c8984" /> 
-<img width="1873" height="500" alt="Image" src="https://github.com/user-attachments/assets/ac00459f-4d6e-48fd-9fe6-d62ae347368d" /> 
-<img width="1865" height="779" alt="Image" src="https://github.com/user-attachments/assets/3c53d2a8-b8ec-4f01-bd2c-4d316ebcdeaf" /> 
-<img width="1873" height="841" alt="Image" src="https://github.com/user-attachments/assets/8c0912a0-4fbd-4a1b-bc00-423aee01822c" /> 
-<img width="1875" height="847" alt="Image" src="https://github.com/user-attachments/assets/246d57cb-9f59-4e42-b859-edc46340e9a8" /> 
-<img width="1877" height="519" alt="Image" src="https://github.com/user-attachments/assets/974be575-8dd2-4d0b-b108-772eb149b8fe" />
+```
 
 ---
 
-## 🔮 Future Enhancements  
-- **Add multi-step or short-term forecasts** (e.g., next 5–15 minutes).  
-- **Model performance dashboards** (e.g., prediction vs. actual).  
-- **Support additional ML models** such as LSTM or ARIMA.  
-- **Telegram inline keyboards** for better UX.  
-- **Deploy to cloud platforms** (Heroku, AWS) for 24/7 availability.  
+## 📸 Demo Preview  
+<img width="1873" height="763" alt="Image" src="https://github.com/user-attachments/assets/85bda639-e2fd-43fb-842e-e3f041a8ca04" />
+<img width="1861" height="639" alt="Image" src="https://github.com/user-attachments/assets/25869bf5-1880-47a9-b09a-4cd14580fc01" />
+<img width="1865" height="769" alt="Image" src="https://github.com/user-attachments/assets/1961c2f1-22b1-456e-9501-92bd56832736" />
+<img width="1885" height="531" alt="Image" src="https://github.com/user-attachments/assets/08512de1-af08-4f01-8910-5e80d90ce3c7" />
+<img width="1875" height="777" alt="Image" src="https://github.com/user-attachments/assets/51344a93-001a-4cff-9b4d-2dc6235987be" />
+<img width="1873" height="500" alt="Image" src="https://github.com/user-attachments/assets/83a3ce84-d0c8-41e5-a5a6-cbeeee184c2e" />
+<img width="1865" height="779" alt="Image" src="https://github.com/user-attachments/assets/a8c1548f-d07e-481c-a337-bd11cec9ae12" />
+<img width="1873" height="841" alt="Image" src="https://github.com/user-attachments/assets/c196b8e2-fb2e-46aa-9307-fcdba4f9b0da" />
+<img width="1875" height="847" alt="Image" src="https://github.com/user-attachments/assets/4f107b3c-147b-44a9-ac50-3e10fe0c6f1c" />
+<img width="1877" height="519" alt="Image" src="https://github.com/user-attachments/assets/91206b79-d799-4fa6-839c-2f5958482427" />
+
+---
+
+## 🔮 Future Enhancements
+
+🌍 Integration with real-time IoT sensors for live updates.
+
+📡 API integration for live weather & traffic feeds.
+
+📊 Automated predictive forecasting dashboards.
+
+☁️ Deployment to Power BI Service / Azure for online access.
+
+📱 Mobile-friendly Power BI views for city administrators.  
 
 ---
 
 ## 👩‍💻 Author  
-**Tamsa Sandeep Karwa**  
+**Bhavya Pratap**  
 📍 Data Analyst & Machine Learning Enthusiast  
-🔗 [Portfolio](https://github.com/tamsakarwa) | [LinkedIn](https://www.linkedin.com/in/tamsakarwa) 
+🔗 [Portfolio](https://github.com/bhavyapratap17) | [LinkedIn](www.linkedin.com/in/bhavyapratap17) 
 
 ---
 
