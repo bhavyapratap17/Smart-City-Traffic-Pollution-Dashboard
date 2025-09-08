@@ -1,5 +1,5 @@
 
-# 🌆 Smart City Traffic & Pollution Dashboard
+# 🌆 Smart City Traffic & Pollution 
 
 ## 📌 Project Overview
 The **Smart City Traffic & Pollution Dashboard** is an interactive **Power BI** solution that analyzes **traffic density, air quality, and weather data** to study their correlation with pollution levels.  
