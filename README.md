@@ -79,12 +79,13 @@ Smart-City-Traffic-Pollution-Dashboard/
 
 ---
 
-## 👩‍💻 Author  
-**Bhavya Pratap**  
-📍 Data Analyst & Machine Learning Enthusiast  
-🔗 [Portfolio](https://github.com/bhavyapratap17) | [LinkedIn](www.linkedin.com/in/bhavyapratap17) 
-
----
-
 ## 📜 License  
 This project is open-sourced under the MIT License — feel free to use and adapt it!
+
+---
+## 📬 Author
+
+👩‍💻 **Bhavya Pratap**  
+📧 [Email](mailto:bhavyapratap766@gmail.com) | 🔗 [LinkedIn](linkedin.com/in/bhavyapratap17) | 🌐 [Portfolio](https://github.com/bhavyapratap17)  
+
+---
